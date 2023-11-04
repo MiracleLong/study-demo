@@ -7,6 +7,9 @@
   git clone https://github.com/MiracleLong/study-demo.git
   ````
 - 第二步前端执行命令安装依赖
+  ```shell
+  npm i
+  ```
 - 第三步后端找到配置文件修改为自己的配置
 - 第四步修改前端访问接口
 - 第五步浏览器地址栏输入地址进行访问
